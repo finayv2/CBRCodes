@@ -1,7 +1,3 @@
--- // Mods - Gives only mods that pin
--- // Everyone - you know
--- // {'U', 'fucker'} - gives only to those players
-
 {
 	['BaenHohoho'] = {"Pin","rbxassetid://9064980787",{"DrPixel"}},
 	['vactap'] = {"Pin","rbxassetid://9499540588",{"Mishchano","thr0wlng"}},
