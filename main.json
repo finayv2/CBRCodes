@@ -42,11 +42,11 @@
 		},
         
 		{
-			"Code": "Summer2022Sun",
+			"Code": "TestMe",
 			"Access": "Everyone",
 
 			"Type": "Pin",
-			"DecalID": "rbxassetid://10109796052"
+			"DecalID": "rbxassetid://10010201767"
 		}
 	]
 }
