@@ -2,7 +2,7 @@
 -- // Everyone - you know
 -- // {'U', 'fucker'} - gives only to those players
 
-return {
+{
 	['BaenHohoho'] = {"Pin","rbxassetid://9064980787",{"DrPixel"}},
 	['vactap'] = {"Pin","rbxassetid://9499540588",{"Mishchano","thr0wlng"}},
 	['Spy_Evan'] = {"Pin","rbxassetid://9064980787",{"DrPixel"}},
