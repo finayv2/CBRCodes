@@ -2,11 +2,11 @@
 	"Codes": 
 	[
 		{
-			"Code": "5MilVisits", 
+			"Code": "5MillVisits", 
 			"Access": "Everyone",
 
 			"Type": "Pin", 
-			"DecalID": "rbxassetid://10499402625"
+			"DecalID": "rbxassetid://10501168495"
 		},
 
 		{
@@ -39,14 +39,6 @@
 
 			"Type": "Pin",
 			"DecalID": "rbxassetid://10109796052"
-		},
-        
-		{
-			"Code": "Castlerslolbananabruh",
-			"Access": "Everyone",
-
-			"Type": "Pin",
-			"DecalID": "rbxassetid://10501168495"
 		}
 	]
 }
