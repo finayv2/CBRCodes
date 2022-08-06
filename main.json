@@ -1,3 +1,5 @@
+
+
 {
 	"Codes": 
 	[
@@ -39,6 +41,14 @@
 
 			"Type": "Pin",
 			"DecalID": "rbxassetid://10109796052"
+		},
+        
+		{
+			"Code": "Testme",
+			"Access": "Everyone",
+
+			"Type": "Pin",
+			"DecalID": "rbxassetid://10010201767"
 		}
 	]
 }
