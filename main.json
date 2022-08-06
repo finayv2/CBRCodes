@@ -8,6 +8,6 @@
 	['Castlerslolbanana'] = {"Pin","rbxassetid://6417858325","Everyone"},
 	['kenbestdev'] = {"Pin","rbxassetid://9963275645",{"DrPixel"}},	
 	['Summer2022Sun'] = {"Pin","rbxassetid://10109796052", "Everyone"},
-	['Tubers'] = {'Pin', 'rbxassetid://8851743008', {'DrPixel', 'b1asp', 'MagnumPlays_YT', 'RevTree', 'tiltadofps'}};
+	['Tubers'] = {'Pin', 'rbxassetid://8851743008', {'DrPixel', 'b1asp', 'MagnumPlays_YT', 'RevTree', 'tiltadofps'}},
 	['5MilVisits'] = {"Pin","rbxassetid://10499402625", "Everyone"},
 }
