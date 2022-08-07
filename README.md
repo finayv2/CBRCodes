@@ -23,4 +23,4 @@ Skin Example :
 
 			"Type": "Skin",
 			"Skins": ["AK47_Survivor"] --  you can add more than one skin to give
-		},
+		}
