@@ -3,6 +3,7 @@
 how not to be dumb
 
 NO TRAILING COMMAS IN JSON
+
 YOU CANT USE ' ' you have to  use " " 
 
 Pin example :
