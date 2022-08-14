@@ -47,6 +47,14 @@
 
 			"Type": "Pin",
 			"DecalID": "rbxassetid://7060819093"
+		},
+
+		{
+			"Code": "JibzSecretPin",
+			"Access": ["DrPixel", "jibz69"],
+
+			"Type": "Pin",
+			"DecalID": "rbxassetid://3357734991"
 		}
 	]
 }
