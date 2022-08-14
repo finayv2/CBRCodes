@@ -19,7 +19,7 @@
 
 		{
 			"Code": "Tubers",
-			"Access": ["DrPixel", "b1asp", "MagnumPlays_YT", "RevTree", "tiltadofps"],
+			"Access": ["DrPixel", "b1asp", "MagnumPlays_YT", "RevTree", "tiltadofps", "jibz69"],
 
 			"Type": "Pin",
 			"DecalID": "rbxassetid://8851743008"
@@ -39,6 +39,14 @@
 
 			"Type": "Pin",
 			"DecalID": "rbxassetid://10109796052"
+		},
+
+		{
+			"Code": "TwitchPin",
+			"Access": ["DrPixel", "b1asp", "MagnumPlays_YT", "RevTree", "tiltadofps", "jibz69"],
+
+			"Type": "Pin",
+			"DecalID": "rbxassetid://7060819093"
 		}
 	]
 }
