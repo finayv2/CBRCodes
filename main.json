@@ -51,7 +51,7 @@
 
 		{
 			"Code": "JibzSecretPin",
-			"Access": ["DrPixel", "jibz69"],
+			"Access": ["DrPixel", "jibz69", "Tedzuu"],
 
 			"Type": "Pin",
 			"DecalID": "rbxassetid://3357734991"
