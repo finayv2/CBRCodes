@@ -43,7 +43,7 @@
 
 		{
 			"Code": "TwitchPin",
-			"Access": ["DrPixel", "b1asp", "MagnumPlays_YT", "RevTree", "tiltadofps", "Tedzuu", "untahhhh", "OxCuRa", "Smr_f"],
+			"Access": ["DrPixel", "b1asp", "MagnumPlays_YT", "RevTree", "tiltadofps", "Tedzuu", "untahhhh", "OxCuRa", "Smr_f"], "Gewoon_Arjan"],
 
 			"Type": "Pin",
 			"DecalID": "rbxassetid://7060819093"
@@ -51,7 +51,7 @@
 
 		{
 			"Code": "CFTMasters",
-			"Access": ["DrPixel", "Tedzuu", "zeflaxive", "ShadoWCBACC", "AutoL0ck", "lcyness", "xXByRobiXx", "oneforall987654321"],
+			"Access": ["DrPixel", "Tedzuu", "zeflaxive", "ShadoWCBACC", "AutoL0ck", "lcyness", "xXByRobiXx", "oneforall987654321", "Gewoon_Arjan"],
 
 			"Type": "Pin",
 			"DecalID": "rbxassetid://10642331690"
