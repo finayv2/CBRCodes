@@ -50,14 +50,6 @@
 		},
 
 		{
-			"Code": "JibzSecretPin",
-			"Access": ["DrPixel", "jibz69", "Tedzuu"],
-
-			"Type": "Pin",
-			"DecalID": "rbxassetid://3357734991"
-		},
-
-		{
 			"Code": "CFTMasters",
 			"Access": ["DrPixel", "Tedzuu", "zeflaxive", "ShadoWCBACC", "AutoL0ck", "lcyness", "xXByRobiXx", "oneforall987654321"],
 
