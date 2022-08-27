@@ -64,6 +64,14 @@
 
 			"Type": "Pin",
 			"DecalID": "rbxassetid://10738713879"
+		},
+
+		{
+			"Code": "BananaKnife",
+			"Access": ["DrPixel"],
+
+			"Type": "Skin",
+			"Skins": ["Banana_Stock", "Sickle_Splattered"]
 		}
 	]
 }
