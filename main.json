@@ -55,6 +55,15 @@
 
 			"Type": "Pin",
 			"DecalID": "rbxassetid://10642331690"
+		},
+
+		
+		{
+			"Code": "SilentKillers",
+			"Access": ["DrPixel", "Tedzuu", "zeflaxive", "nawe_s", "foxgirlaim", "lcyness", "DidiSS16", "FreeShunging", "OxCuRa", "untahhhh", "xXByRobiXx", "butacfidoos"],
+
+			"Type": "Pin",
+			"DecalID": "rbxassetid://10738713879"
 		}
 	]
 }
