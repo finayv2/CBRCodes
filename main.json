@@ -68,10 +68,10 @@
 
 		{
 			"Code": "BananaKnife",
-			"Access": ["DrPixel"],
+			"Access": ["OxCura", "Smr_f"],
 
 			"Type": "Skin",
-			"Skins": ["Banana_Stock", "Sickle_Splattered"]
+			"Skins": ["Banana_Stock"]
 		}
 	]
 }
