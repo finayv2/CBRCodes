@@ -65,6 +65,14 @@
 			"Type": "Pin",
 			"DecalID": "rbxassetid://10738713879"
 		},
+		
+		{
+			"Code": "hwewa",
+			"Access": ["DrPixel", "targetsswitching"],
+
+			"Type": "Pin",
+			"DecalID": "rbxassetid://6500069019"
+		},
 
 		{
 			"Code": "BananaKnife",
