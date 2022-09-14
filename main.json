@@ -76,7 +76,7 @@
 
 		{
 			"Code": "Sickle",
-			"Access": ["Tedzuu"],
+			"Access": ["Tedzuu", "zeflaxive"],
 
 			"Type": "Skin",
 			"Skins": ["Sickle_Mummy"]
