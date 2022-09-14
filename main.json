@@ -75,11 +75,11 @@
 		},
 
 		{
-			"Code": "BananaKnife",
-			"Access": ["OxCura", "Smr_f"],
+			"Code": "Sickle",
+			"Access": ["Tedzuu"],
 
 			"Type": "Skin",
-			"Skins": ["Banana_Stock"]
+			"Skins": ["Sickle_Mummy"]
 		}
 	]
 }
