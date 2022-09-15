@@ -75,11 +75,11 @@
 		},
 
 		{
-			"Code": "Sickle",
-			"Access": ["Tedzuu", "zeflaxive"],
+			"Code": "TeamIRAN",
+			"Access": ["spirdox", "Shrug_o", "zh00on", "zeflaxive", "wic_e", "BlackEvo", "mvzzaa", "AutoL0ck", "phleff", "rubxvs"],
 
-			"Type": "Skin",
-			"Skins": ["Sickle_Mummy"]
+			"Type": "Pin",
+			"DecalID": "rbxassetid://10920944458"
 		}
 	]
 }
