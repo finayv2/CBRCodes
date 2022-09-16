@@ -67,11 +67,11 @@
 		},
 		
 		{
-			"Code": "hwewa",
-			"Access": ["DrPixel", "targetsswitching"],
+			"Code": "DropXPin",
+			"Access": ["DrPixel", "Tedzuu", "zeflaxive", "Smr_f", "ScreamGTF"],
 
 			"Type": "Pin",
-			"DecalID": "rbxassetid://6500069019"
+			"DecalID": "rbxassetid://10921041724"
 		},
 
 		{
